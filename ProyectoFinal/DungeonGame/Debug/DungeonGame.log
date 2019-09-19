@@ -1,0 +1,26 @@
+﻿  DungeonGame.cpp
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(76,25): warning C4101:  'e': unreferenced local variable
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(226,8): warning C4101:  'rc': unreferenced local variable
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(490,7): warning C4101:  'isVisited': unreferenced local variable
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(638,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(781,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(796,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(884,36): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(890,20): warning C4018:  '<': signed/unsigned mismatch
+  Player.cpp
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(893,31): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(191,48): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(198,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(503,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(522,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(567,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(728,14): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(898,49): warning C4244:  'argument': conversion from 'double' to 'const short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(901,52): warning C4244:  'argument': conversion from 'double' to 'const short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(917,9): warning C4553:  '==': result of expression not used; did you intend '='?
+  Generating Code...
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Player.cpp(1118,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(238): warning C4715:  'WindowProcedure': not all control paths return a value
+D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\DungeonGame.cpp(929): warning C4715:  'getKey': not all control paths return a value
+  DungeonGame.vcxproj -> D:\Documents\Universidad\Trimestre5\POO2\ProyectoFinal\DungeonGame\Debug\DungeonGame.exe
+  0 File(s) copied

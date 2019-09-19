@@ -1,0 +1,10 @@
+﻿  Dungeon_Battle.cpp
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(9,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(19,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(30,20): warning C4244:  '-=': conversion from 'float' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(39,13): warning C4244:  '=': conversion from 'float' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(40,20): warning C4244:  '-=': conversion from 'float' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(48,13): warning C4244:  '=': conversion from 'float' to 'short', possible loss of data
+D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Dungeon_Battle.cpp(49,20): warning C4244:  '-=': conversion from 'float' to 'short', possible loss of data
+     Creating library D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Debug\Dungeon_Battle.lib and object D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Debug\Dungeon_Battle.exp
+  Dungeon_Battle.vcxproj -> D:\Documents\Universidad\Trimestre5\POO2\Dungeon_Battle\Debug\Dungeon_Battle.dll
